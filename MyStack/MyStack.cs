@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MyLinkedListProgramm
 {
-    internal class MyStack<T>
+    public class MyStack<T>
     {
         private MyLinkedList<T> list;
 
