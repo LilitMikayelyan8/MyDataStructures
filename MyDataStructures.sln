@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStack", "MyStack\MyStack.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainProj", "MainProj\MainProj.csproj", "{56B43D18-4080-478E-A8AD-82A107CCF10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBinaryTree", "MyBinaryTree\MyBinaryTree.csproj", "{2E979A9C-9438-490B-B339-5DA04EF8439A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBinaryTree", "MyBinaryTree\MyBinaryTree.csproj", "{2E979A9C-9438-490B-B339-5DA04EF8439A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHashTableAlgorithms", "MyHashTableAlgorithms\MyHashTableAlgorithms.csproj", "{A1A39922-C65B-4394-9BBC-94DF2455AE12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2E979A9C-9438-490B-B339-5DA04EF8439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E979A9C-9438-490B-B339-5DA04EF8439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E979A9C-9438-490B-B339-5DA04EF8439A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A39922-C65B-4394-9BBC-94DF2455AE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A39922-C65B-4394-9BBC-94DF2455AE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A39922-C65B-4394-9BBC-94DF2455AE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A39922-C65B-4394-9BBC-94DF2455AE12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
