@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDz00oZRiZc=",
+  "dgSpecHash": "6idfvRJTf4PIKtV1d8ekHv0P6Qoevfh22vB9NscKir4GDnIIDV+/2P+ryrEVIHuxLmHiDm0FsACTdZ2FEMGsKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hmika\\source\\repos\\LilitMikayelyan8\\MyDataStructures\\MyStack\\MyStack.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\hmika\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\hmika\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\hmika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\LilitMikayelyan8\\LilitMikayelyan8\\MyDataStructures\\MyStack\\MyStack.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

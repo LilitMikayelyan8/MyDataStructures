@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace MyBinaryTree;
 
-internal class MyBinaryTree<T> : IEnumerable<T>
+public class MyBinaryTree<T> : IEnumerable<T>
     where T : IComparable<T>
 {
     private MyBinaryTreeNode<T> Root { get; set; }
